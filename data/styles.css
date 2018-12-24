@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+.shape {
+}
 .heading_1 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -50,6 +52,13 @@
 }
 .paragraph {
   text-align:left;
+}
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
 }
 .flow_shape {
 }
